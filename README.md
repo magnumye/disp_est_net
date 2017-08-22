@@ -9,7 +9,7 @@ Self-Supervised Siamese Learning on Stereo Image Pairs for Depth
 Estimation in Robotic Surgery. Hamlyn Symposium on Medical Robotics. 2017.
  ```
 
-You can download our [data]() and [pretrained models]() and place them in the "data" and "trained" folders, respectively.
+You can download our [data](http://hamlyn.doc.ic.ac.uk/vision/data/daVinci.zip) (9.3GB) and [pretrained models](http://hamlyn.doc.ic.ac.uk/vision/data/trained.zip) and place them in the "data" and "trained" folders, respectively.
 
 ### Prerequisites ###
 
