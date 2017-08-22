@@ -1,4 +1,4 @@
-# disparity estimation network
+# Disparity estimation network
 CNN-based monocular disparity (inverse depth) estimation network for surgical videos collected in da Vinci surgery. The source code and data are associated with a [short report](https://arxiv.org/pdf/1705.08260.pdf) presented at the Hamlyn Symposium on Medical Robotics 2017. 
 
 If you use the code or data, please cite following:
@@ -31,7 +31,7 @@ This code is distributed under BSD License.
 
 1. The autoencoder model in this implementation is slightly different from the one in the report. Certain layers have been removed for memory consideration and skip layers and multiscale training have been added.
 
-2. Please adjust the mini-batch szie according to your specific GPU memory.
+2. Please adjust the mini-batch size according to your specific GPU memory.
 
 3. This implementation has been tested in Ubuntu.
 
