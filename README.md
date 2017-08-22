@@ -4,7 +4,9 @@ CNN-based monocular disparity (inverse depth) estimation network for surgical vi
 If you use the code or data, please cite following:
 
 ```
-Ye, M., Johns, E., Handa, A., Zhang, L., Pratt, P. and Yang, G.Z., 2017. Self-Supervised Siamese Learning on Stereo Image Pairs for Depth Estimation in Robotic Surgery. Hamlyn Symposium on Medical Robotics. 2017.
+Ye, M., Johns, E., Handa, A., Zhang, L., Pratt, P. and Yang, G.Z. 
+Self-Supervised Siamese Learning on Stereo Image Pairs for Depth 
+Estimation in Robotic Surgery. Hamlyn Symposium on Medical Robotics. 2017.
  ```
 
 You can download our [data]() and [pretrained models]() and place them in the "data" and "trained" folders, respectively.
