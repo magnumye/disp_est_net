@@ -11,4 +11,10 @@ Estimation in Robotic Surgery. Hamlyn Symposium on Medical Robotics. 2017.
 
 
 
-
+# Calibration parameters
+```
+Intrinsics: width, height, fx, fy, px, py. These apply to both left and right after rectification.
+[ 384.	192.	373.47833252	373.47833252	182.91804504	113.72999573]
+Extrinsics: rx, ry, rz, tx, ty, tz (in mm)
+[ 0.	0.	0.	-5.63117313	0.	0.]
+```
